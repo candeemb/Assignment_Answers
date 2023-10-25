@@ -36,8 +36,6 @@ $wrng_prnt = true
 $ntc_prnt = true
 $msg_prnt = true
 
-# incluimos los metodos de consulta
-require "./task01_process_methods.rb"
 
 # CLASSES
 class CrossData
