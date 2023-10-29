@@ -413,31 +413,4 @@ plantingSimulation(grams)
 # calculo Chi-Squared Test
 chiSquaredTest
 
-=begin
 
-# CONSULTAS
-
-.- desde el terminal, cargamos el fichero 
-
-		irb -r ./task01_main_process.rb
-
-.- ejecutamos las consultas, por ejemplo
-
-getCrossDataAllData
-getCrossDataChiSquared("B52")
-
-getGeneInformationAllData
-getGeneInformationGeneName("B3334")
-getGeneInformationMutantPhenotype("A51")
-getGeneInformationLinkedTo("A348")
-
-
-getSeedStockAllData
-getSeedStockMutantGeneId("A51")
-getSeedStockLastPlanted("B3334")
-getSeedStockStorage("A334")
-getSeedStockGramsRemaining("A348")
-searchSeedStockLastPlanted("23/10/2023")
-
-
-=end
