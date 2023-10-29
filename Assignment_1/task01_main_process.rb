@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
 
-
-# cd /home/oliverio/Downloads/Candela/EjercicioRuby_25/
 # ruby task01_main_process.rb
 # irb -r ./task01_main_process.rb
 # https://ib.bioninja.com.au/higher-level/topic-10-genetics-and-evolu/102-inheritance/chi-squared-test.html
+
 
 # incluimos la libreria date, necesaria para actualizar la fecha de la ultima plantacion
 require "date"
