@@ -1,0 +1,7 @@
+##gff-version 3
+Chr2	.	repeated_sequence	19022373	19022378	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
+Chr2	.	repeated_sequence	19023328	19023333	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
+Chr2	.	repeated_sequence	19027073	19027078	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
+Chr2	.	repeated_sequence	19027262	19027267	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
+Chr2	.	repeated_sequence	19027268	19027273	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
+Chr2	.	repeated_sequence	19027274	19027279	.	-	.	type=Reverse-CTTCTT;gene=AT2G46340
